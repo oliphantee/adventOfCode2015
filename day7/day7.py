@@ -55,3 +55,5 @@ while len(failed)!=prevFailed:
     for line in otherFailed:
         handleCmd(line[0],line[1],defined)
 print(defined["a"])
+
+f.close()
