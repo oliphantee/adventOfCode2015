@@ -35,3 +35,5 @@ for name in allNames:
     allPairs[("Me",name)]=0
 allNames.add("Me")
 getMaxHap() # part 2
+
+f.close()
