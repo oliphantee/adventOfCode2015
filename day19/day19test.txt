@@ -1,0 +1,11 @@
+H => HO
+H => OH
+O => HH
+O => H
+e => H
+e => Ok
+e => O
+Ok => LmOk
+Ok => HOk
+
+HOHOHOHOHOLmOk
